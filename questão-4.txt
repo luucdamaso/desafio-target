@@ -1,0 +1,3 @@
+Primeiro, ligue um interruptor e vá para a sala das lâmpadas para verificar qual está acesa. Isso permitirá identificar qual interruptor controla essa lâmpada.
+Em seguida, desligue o primeiro interruptor e ligue o segundo interruptor. Mais uma vez, vá para a sala das lâmpadas e observe qual está acesa. Agora você saberá qual interruptor controla essa lâmpada.
+Agora, o terceiro interruptor restante será associado à lâmpada que não foi acessa em nenhuma das tentativas anteriores.
